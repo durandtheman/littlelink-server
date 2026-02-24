@@ -235,7 +235,7 @@ a:hover {
 
   /* Modifier for rounded avatar */
   .avatar--rounded {
-	border-radius: 50%;
+	border-radius: 75%;
   }
 
   /* Modifier for slightly rounded corners */
