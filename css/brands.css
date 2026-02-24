@@ -37,6 +37,31 @@
 	--button-background:#2457F5;
 	--button-border:1px solid #ffffff;
 }
+/* Watch JeffsPlex */
+.button-watch-jeffsplex {
+    --button-text: #ffffff;
+    --button-background: #c97618;
+
+}
+
+/* Request a TV Show/Movie */
+.button-request-a-tv-show-movie {
+    --button-text: #ffffff;
+    --button-background: #34034f;
+}
+
+/* Plex Setup Guide */
+.button-plex-setup-guide {
+    --button-text: #ffffff;
+    --button-background: #981010;
+    --button-border: 1px solid #FFFFFF;
+}
+/* Your Plex Watch Stats! */
+.button-your-plex-watch-stats- {
+    --button-text: #ffffff;
+    --button-background: #106498;
+    --button-border: 1px solid #FFFFFF;
+}
 
 /* Amazon */
 .button-amazon {
