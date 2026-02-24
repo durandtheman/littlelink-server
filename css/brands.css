@@ -63,6 +63,12 @@
     --button-border: 1px solid #FFFFFF;
 }
 
+/* Jeff's Plex Uptime Status */
+.button-jeff-s-plex-uptime-status {
+    --button-text: #ffffff;
+    --button-background: #566d7b;
+}
+
 /* Amazon */
 .button-amazon {
 	--button-text:#000000;
